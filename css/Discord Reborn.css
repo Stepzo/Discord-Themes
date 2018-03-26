@@ -1070,3 +1070,5 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 .news-XQhS0- {background-color: transparent;}
 
 .theme-dark .quickMessage-OCo-Q0 {background-color: rgba(0, 0, 0, 0.3);}
+
+.message-group:not(.compact) .avatar-large[style*="293540827207041027"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="293540827207041027"] ~ .member-inner .member-username .member-username-inner::after{content:"Bandolero";background:#191919;color:#00fff0;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
