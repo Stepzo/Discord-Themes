@@ -1,6 +1,6 @@
 /* IMPORT CSS FROM GITHUB */
 @import url("https://rawgit.com/stepzo/Discord-Themes/master/css/Quiet.css");
-
+@import url("https://rawgit.com/stepzo/Discord-Themes/master/css/Tags.css");
 :root { 
   --theme-name: "Reborn";
 	--theme-letter: "R";
