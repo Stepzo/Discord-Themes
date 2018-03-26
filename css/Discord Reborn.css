@@ -1,6 +1,5 @@
 /* IMPORT CSS FROM GITHUB */
 @import url("https://rawgit.com/squee666/Discord-Themes/master/css/Quiet.css");
-@import url("https://rawgit.com/Stepzo/Discord-Themes/master/css/Tags.css");
 :root { 
   --theme-name: "Reborn";
 	--theme-letter: "R";
@@ -2142,4 +2141,26 @@ form.deprecated.auth-form {background: rgba(0, 0, 0, 0.4) !important;}
 
 .theme-dark .quickMessage-OCo-Q0 {background-color: rgba(0, 0, 0, 0.3);}
 
+
+/* TAGS * /
+
 .message-group:not(.compact) .avatar-large[style*="293540827207041027"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="293540827207041027"] ~ .member-inner .member-username .member-username-inner::after{content:"Bandolero";background:#191919;color:#00fff0;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
+
+/* Pout's Tag Animation */
+
+.message-group:not(.compact) .avatar-large[style*="133021513241591808"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="133021513241591808"] ~ .member-inner .member-username .member-username-inner::after {
+    content:"";
+    background-image: url(https://i.imgur.com/c8y7JO8.gif);
+    color:#000;
+    border-radius:0px;
+    margin-left:6px;
+    font-size:10px;
+    font-weight:998;
+    padding:4px 31px;
+    text-transform:uppercase;
+    vertical-align:bottom;
+    line-height:16px;
+    -webkit-flex-shrink:0;
+    flex-shrink:0;
+    text-shadow: 0px 1px 2px #000;
+}
